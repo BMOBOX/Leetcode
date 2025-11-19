@@ -3,8 +3,9 @@
 # Hashmap
 
 - unordered_map
-declaration: ```unordered_map<int, int> u_name; //(index : number)```
-functions:
+declaration: ```unordered_map<int, int> u_name;``` //(index : number)
+
+a. functions:
 
 1. u_name.find(index) returns first occurence
 2. u_name.count(index) return total occurences
