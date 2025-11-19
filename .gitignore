@@ -1,0 +1,24 @@
+# Build files
+*.o
+*.out
+*.exe
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Mac OS system files
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Ignore compiled temp files
+*.obj
+*.dll
+*.so
+
+
