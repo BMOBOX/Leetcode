@@ -13,7 +13,7 @@ empty()
 
 ## Code
 
-'''
+```cpp
 class Solution {
     public:
         bool isValid(string s) {
@@ -39,4 +39,4 @@ class Solution {
 
     }
 };
-'''
+```
