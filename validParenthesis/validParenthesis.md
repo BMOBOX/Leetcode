@@ -6,10 +6,10 @@
 ## Basics
 
 # Stack
-push()
-pop()
-top()
-empty()
+1. push()
+2. pop()
+3. top()
+4. empty()
 
 ## Code
 
