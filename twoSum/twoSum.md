@@ -3,7 +3,7 @@
 # Hashmap
 
 - unordered_map
-declaration: unordered_map<int, int> u_name; //(index : number)
+declaration: ```unordered_map<int, int> u_name; //(index : number)```
 functions:
 
 1. u_name.find(index) returns first occurence
